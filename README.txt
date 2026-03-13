@@ -6,7 +6,7 @@ Kwangwoon University Course Registration Helper
 
 [ 설치 ]
 
-  '광운대 수강신청 도우미 설치.exe'를 실행하세요.
+  'kwangwoon-course-helper-setup.exe'를 실행하세요.
 
 
 [ 사전 준비 ]
