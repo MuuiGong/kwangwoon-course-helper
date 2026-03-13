@@ -11,7 +11,7 @@ Kwangwoon University Course Registration Helper
 
 [ 사전 준비 ]
 
-  광운대학교 공식 수강신청 프로그램(MDmain)이 PC에 설치되어 있어야 합니다.
+  광운대학교 공식 수강신청 프로그램이 PC에 설치되어 있어야 합니다.
 
 
 [ 사용 방법 ]
